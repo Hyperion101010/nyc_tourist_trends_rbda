@@ -1,3 +1,7 @@
+# Collaborators
+
+Developed in collaboration with @aygunnajafova as my team mate.
+
 # NYC Tourist Trends
 Data ingestion for the NYC tourism trends analysis starts with a MapReduce-driven cleanup of the raw sources (mta ridership, restaurant inspections, hotel reviews, and NYPD arrests) before the cleaned data lands in Hive tables for analytics.
 
